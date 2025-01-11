@@ -6,13 +6,13 @@ Aqui você encontrará um pouco do que já aprendi e desenvolvi em áreas como *
 ## 👀 Sobre mim  
 - 🔎 **Interesses**: Finanças, marketing de influência, programas de afiliados e análise de dados.  
 - 🌍 Apaixonada por transformar dados em insights estratégicos que impulsionam decisões e conectam negócios a pessoas.  
-- 📚 Sempre explorando como tecnologia, finanças e marketing podem criar impacto positivo.  
+- 📚 Gosto muito de aprender sobre tecnologia, finanças e marketing podem criar impacto positivo na sociedade.  
 
 ## 🌱 O que estou aprendendo  
 Atualmente, estou me aprofundando em:  
 - **Análise de Dados com Ferramentas de BI**, por meio do curso da **DNC**.  
 - **Psicologia Financeira**, compreendendo como as emoções moldam as decisões financeiras.  
-- Estratégias avançadas de marketing de influência e programas de afiliados.  
+- Estratégias de marketing de influência e programas de afiliados.  
 
 Apesar de estar constantemente aprimorando minhas habilidades, já utilizo ferramentas de BI, como o **Locker Studio**, para criar dashboards interativos e gerar relatórios que apoiam decisões estratégicas.  
 
@@ -29,7 +29,8 @@ Apesar de estar constantemente aprimorando minhas habilidades, já utilizo ferra
 - Ela/Dela  
 
 ## ⚡ Curiosidade  
-- Realizei um intercâmbio no Canadá, onde estudei inglês e explorei novas culturas.  
+- Realizei um intercâmbio no Canadá, onde estudei inglês por 15 dias.
+- Sou formada em Administração e tenho um MBA em Vendas e Relacionamento com o Cliente, mas antes fiz magistério.
 - Amo unir criatividade e tecnologia para transformar dados em ações estratégicas.  
 
 ---  
