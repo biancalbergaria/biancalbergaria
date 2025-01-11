@@ -29,7 +29,8 @@ Apesar de estar constantemente aprimorando minhas habilidades, já utilizo ferra
 - Ela/Dela  
 
 ## ⚡ Curiosidade  
-- Realizei um intercâmbio no Canadá, onde estudei inglês por 15 dias.
+- Trabalhei em uma escola de espanhola, onde tive o primeiro contato com a língua e adoro ouvir as pessoas falando em espanhol.
+- Realizei um intercâmbio no Canadá, onde estudei inglês por 15 dias. 
 - Sou formada em Administração e tenho um MBA em Vendas e Relacionamento com o Cliente, mas antes fiz magistério.
 - Amo unir criatividade e tecnologia para transformar dados em ações estratégicas.  
 
