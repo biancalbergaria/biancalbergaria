@@ -5,7 +5,6 @@ Aqui você encontrará um pouco do que já aprendi e desenvolvi em áreas como *
 
 ## 👀 Sobre mim  
 - 🔎 **Interesses**: Finanças, marketing de influência, programas de afiliados e análise de dados.  
-- 🌍 Apaixonada por transformar dados em insights estratégicos que impulsionam decisões e conectam negócios a pessoas.  
 - 📚 Gosto muito de aprender sobre tecnologia, finanças e marketing podem criar impacto positivo na sociedade.  
 
 ## 🌱 O que estou aprendendo  
